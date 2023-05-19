@@ -44,7 +44,7 @@ And finally, it is quite easy to spoof  IPv4 packets. Wireshark can’t really t
 - Link -?> <a href="https://f-droid.org/en/packages/com.termux/" target="_blank">**Here**</a>
 <img src="assets/ss1.JPG">
 
-## [+] Now Setup
+## [+] Setup Process
 - ` termux-setup-storage `
 - ` apt update `
 - ` apt upgrade -y `
@@ -88,7 +88,7 @@ And finally, it is quite easy to spoof  IPv4 packets. Wireshark can’t really t
 <img src="assets/ss8.JPG">
 <img src="assets/ss9.JPG">
 
-> Then Install the given VNC Viwer from Playstore. You can also download from here: <a href="https://github.com/InferiorAK/wireshark-installation-termux/blob/main/VNC%20Viewer_4.1.0.49169.apk">
+> Then Install the given VNC Viwer from Playstore. You can also download from here: <a href="https://github.com/InferiorAK/wireshark-installation-termux/raw/main/VNC%20Viewer_4.1.0.49169.apk">**Here**</a>
  
 <img src="assets/ss10.png">
 
