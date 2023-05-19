@@ -82,7 +82,7 @@ And finally, it is quite easy to spoof  IPv4 packets. Wireshark can’t really t
 - ` ifconfig `
 > From here you have to find the local ip
 
-- ` nmap local_ip `
+- ` nmap <local_ip> `
 > From here check the TCP port that being used by VNC Server. It might be 5901
 
 <img src="assets/ss8.JPG">
