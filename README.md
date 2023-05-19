@@ -2,10 +2,10 @@
 <img src="assets/banner_wit.jpg" align="center" alt="Banner InferiorAK Wireshark">
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/InferiorAK/wireshark-installation-termux?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/InferiorAK/wireshark-installation-termux?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/InferiorAK/wireshark-installation-termux?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/InferiorAK/wireshark-installation-termux?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/inferiorAK/wireshark-installation-termux?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/inferiorAK/wireshark-installation-termux?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/inferiorAK/wireshark-installation-termux?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/inferiorAK/wireshark-installation-termux?color=teal&style=for-the-badge">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
