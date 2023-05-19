@@ -1,6 +1,50 @@
 # How to Install WireShark in Termux?
 <img src="assets/banner_wit.jpg" align="center" alt="Banner InferiorAK Wireshark">
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/InferiorAK/wireshark-installation-termux?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/InferiorAK/wireshark-installation-termux?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/InferiorAK/wireshark-installation-termux?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/InferiorAK/wireshark-installation-termux?color=teal&style=for-the-badge">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
+  <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2Fwireshark-installation-termux&title=Visitors&edge_flat=false"/></a>-->
+</p>
+
+## [+] About Wiresgark
+***What Is Wireshark Used For?**
+
+*Wireshark has many uses, including troubleshooting networks that have performance issues. Cybersecurity professionals often use Wireshark to trace connections, view the contents of suspect network transactions and identify bursts of network traffic. It’s a major part of any IT pro’s toolkit – and hopefully, the IT pro has the knowledge to use it.
+
+***When Should Wireshark Be Used?**
+
+*Wireshark is a safe tool used by government agencies, educational institutions, corporations, small businesses and nonprofits alike to troubleshoot network issues. Additionally, Wireshark can be used as a learning tool.
+
+*Those new to information security can use Wireshark as a tool to understand network traffic analysis, how communication takes place when particular protocols are involved and where it goes wrong when certain issues occur.
+
+*Of course, Wireshark can’t do everything.
+
+*First of all, it can’t help a user who has little understanding of network protocols. No tool, no matter how cool, replaces knowledge very well. In other words, to properly use Wireshark, you need to learn exactly how a network operates. That means, you need to understand things such as the three-way TCP handshake and various protocols, including TCP, UDP, DHCP and ICMP.
+
+*Second, Wireshark can’t grab traffic from all of the other systems on the network under normal circumstances. On modern networks that use devices called switches, Wireshark (or any other standard packet-capturing tool) can only sniff traffic between your local computer and the remote system it is talking to.
+
+*Third, while Wireshark can show malformed packets and apply color coding, it doesn’t have actual alerts; Wireshark isn’t an intrusion detection system (IDS).
+
+*Fourth, Wireshark can’t help with decryption with regards to encrypted traffic.
+
+*And finally, it is quite easy to spoof  IPv4 packets. Wireshark can’t really tell you if a particular IP address it finds in a captured packet is a real one or not. That requires a bit more know-how on the part of an IT pro, as well as additional software.
+
+## [+] Contact :
+<div align=center>
+ 
+[![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
+[![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
+[![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
+ 
+</div>
+
 ## [+] At First Download Termux from F-Droid and Install it
 - Link -?> <a href="https://f-droid.org/en/packages/com.termux/" target="_blank">**Here**</a>
 <img src="assets/ss1.JPG">
